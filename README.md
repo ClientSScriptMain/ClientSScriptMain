@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @ClientSScriptMain
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ClientSScriptMain/ClientSScriptMain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Official Client Script Github
+Use Client Today!
+https://discord.gg/wXJDtkutNe
